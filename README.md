@@ -83,7 +83,7 @@ Run the Python script.
 
 # 📧 Contact Support
 
-For any queries or assistance, feel free to contact us at contact.info.inquiries@gmail.com. We're here to help!
+For any queries or assistance, feel free to contact us at er.anup.bhattarai@gmail.com. We're here to help!
 
 Happy managing! 📋✨
 
